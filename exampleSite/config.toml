@@ -6,17 +6,26 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "FreeSign | Personal Blog"
 [[menu.main]]
-name = "Контакты"
-url = "contact"
-weight = 3
+hasChildren = true
+name = "Homepage"
+url = ""
+weight = 1
 [[menu.main]]
-name = "О нас"
+name = "Homepage 1"
+parent = "Homepage"
+url = "homepage/home-1"
+[[menu.main]]
+name = "Homepage 2"
+parent = "Homepage"
+url = "homepage/home-2"
+[[menu.main]]
+name = "About"
 url = "about"
 weight = 2
 [[menu.main]]
-hasChildren = true
-name = "Главная"
-weight = 1
+name = "Contact"
+url = "contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -28,7 +37,7 @@ contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
 email = "exmaple@ymail.com"
-home = "Home"
+home = "Главная"
 layout = "1"
 logo = "images/logo.png"
 mobile = "+90 000 333 22"
