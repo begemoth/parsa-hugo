@@ -1,4 +1,4 @@
-baseurl = "https:/meghna-test.netify.com"
+baseurl = "https:/meghna-test.netlify.com"
 googleAnalytics = ""
 languageCode = "en-us"
 paginate = 6
