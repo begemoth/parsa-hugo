@@ -1,6 +1,6 @@
 baseurl = "https://freesign-test.netlify.app"
 googleAnalytics = ""
-languageCode = "en-us"
+languageCode = "ru-RU"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
