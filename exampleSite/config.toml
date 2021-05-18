@@ -6,6 +6,11 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "FreeSign | Personal Blog"
 [[menu.main]]
+hasChildren = ""
+name = "Сайты"
+url = "blog"
+weight = ""
+[[menu.main]]
 hasChildren = true
 name = "Homepage"
 url = ""
