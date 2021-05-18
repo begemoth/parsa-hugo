@@ -16,7 +16,7 @@ name = "Сайты"
 url = "blog"
 weight = ""
 [[menu.main]]
-name = "Contact"
+name = "Контакты"
 url = "contact"
 weight = 3
 [outputs]
