@@ -7,7 +7,7 @@ theme = "parsa-hugo"
 title = "FreeSign | Personal Blog"
 [[menu.main]]
 hasChildren = false
-name = "Homepage"
+name = "Главная"
 url = ""
 weight = 1
 [[menu.main]]
