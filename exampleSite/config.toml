@@ -14,7 +14,7 @@ weight = 1
 hasChildren = ""
 name = "Сайты"
 url = "blog"
-weight = ""
+weight = "2"
 [[menu.main]]
 name = "Контакты"
 url = "contact"
