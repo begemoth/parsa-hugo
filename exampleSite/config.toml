@@ -1,4 +1,4 @@
-baseurl = "https://freesign-test.netlify.app"
+baseurl = "https://freesign.ru/"
 googleAnalytics = ""
 languageCode = "ru-RU"
 paginate = 6
@@ -6,17 +6,26 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "FreeSign | Personal Blog"
 [[menu.main]]
-name = "Блог"
-url = "/blog/"
+hasChildren = true
+name = "Homepage"
+url = ""
+weight = 1
+[[menu.main]]
+name = "Homepage 1"
+parent = "Homepage"
+url = "homepage/home-1"
+[[menu.main]]
+name = "Homepage 2"
+parent = "Homepage"
+url = "homepage/home-2"
+[[menu.main]]
+name = "About"
+url = "about"
 weight = 2
 [[menu.main]]
-name = "Контакты"
+name = "Contact"
 url = "contact"
 weight = 3
-[[menu.main]]
-hasChildren = true
-name = "Главная"
-weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
