@@ -13,3 +13,5 @@ tags:
 
 ---
 Множество стоковых фотографий, которые можно использовать в коммерческих целях [https://www.pxfuel.com/](https://www.pxfuel.com/ "www.pxfuel.com")
+
+![Royalty free stock photos free & unlimited download](/images/boat-ship-clouds-sky.jpg "Pxfuel ")
