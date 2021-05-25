@@ -4,11 +4,12 @@ date: 2019-05-25T08:46:10+00:00
 description: множество стоковых фотографий, которые можно использовать в коммерческих
   целях
 type: post
-image: images/masonary-post/post-2.jpg
+image: "/images/boat-ship-clouds-sky.jpg"
 categories:
 - Клипарт
 - Сайты
 tags:
+- Stock
 - Photos
 
 ---
