@@ -14,4 +14,8 @@ tags:
 ---
 Множество стоковых фотографий, которые можно использовать в коммерческих целях [https://www.pxfuel.com/](https://www.pxfuel.com/ "www.pxfuel.com")
 
+![](/images/technology-camera-technology.jpg)
+
+![](/images/viking-drakar-boat-norway-scandinavia-fjord.jpg)
+
 ![Royalty free stock photos free & unlimited download](/images/boat-ship-clouds-sky.jpg "Pxfuel ")
