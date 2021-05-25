@@ -6,3 +6,12 @@
   HUGO_VERSION = "0.62.2"
   HUGO_THEME = "repo"
   HUGO_BASEURL = "/"
+  
+
+[[redirects]]
+  from = "/search"
+  to = "https://freesign.ru/"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
+  headers = {X-From = "Netlify"}
+  signed = "API_SIGNATURE_TOKEN"
