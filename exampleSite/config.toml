@@ -1,4 +1,4 @@
-baseurl = "https://freesign.ru/"
+baseurl = "freesign.ru"
 googleAnalytics = ""
 languageCode = "ru-RU"
 paginate = 6
