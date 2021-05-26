@@ -5,7 +5,7 @@ description: Бесплатный мобильный сенсорный слай
 type: post
 image: "/images/swiper.png"
 categories:
-- Food
+- ПРОГРАММЫ
 tags:
 - Photos
 - Food
