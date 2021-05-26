@@ -7,7 +7,7 @@ image: images/masonary-post/post-11.jpg
 categories: []
 tags:
 - Photos
-- Food
+- Stock
 
 ---
 Энергичное сообщество креативщиков, которые обмениваются авторскими правами на изображения и видеоролики.
