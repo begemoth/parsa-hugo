@@ -1,6 +1,6 @@
 +++
 categories = ["Программы"]
-date = ""
+date = 2021-05-25T21:00:00Z
 description = "Smallpdf - программа для работы с PDF"
 draft = true
 image = "/images/smallpdf.png"
