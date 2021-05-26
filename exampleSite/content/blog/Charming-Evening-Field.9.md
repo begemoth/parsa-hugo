@@ -1,12 +1,13 @@
 ---
 title: MDB 5
 date: 2021-05-25T21:00:00+00:00
-description: This is meta description
+description: Пакет пользовательского интерфейса Bootstrap 5 с открытым исходным кодом
 type: post
 image: images/masonary-post/post-10.jpg
 categories:
 - Программы
 tags:
+- Frameworks
 - Bootstrap
 - Material Design
 
