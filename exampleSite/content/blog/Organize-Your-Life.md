@@ -2,7 +2,7 @@
 title: Organize Your Life With 10 Simple rule 22
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
-type: featured, post
+type: featured post
 image: images/featured-post/post-1.jpg
 categories:
 - Valuable Idea
