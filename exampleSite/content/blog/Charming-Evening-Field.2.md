@@ -1,9 +1,9 @@
 ---
 title: Swiper
 date: 2021-05-25T21:00:00+00:00
-description: бесплатный мобильный сенсорный слайдер для сайта
+description: Бесплатный мобильный сенсорный слайдер для сайта
 type: post
-image: images/masonary-post/post-3.jpg
+image: "/images/swiper.png"
 categories:
 - Food
 tags:
