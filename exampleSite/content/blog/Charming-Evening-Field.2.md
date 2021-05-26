@@ -7,6 +7,7 @@ image: "/images/swiper.png"
 categories:
 - Программы
 tags:
+- Sliders
 - Photos
 - Scripts
 
