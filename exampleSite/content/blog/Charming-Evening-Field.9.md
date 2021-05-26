@@ -6,9 +6,7 @@ type: post
 image: images/masonary-post/post-10.jpg
 categories:
 - Food
-tags:
-- Photos
-- Food
+tags: []
 
 ---
 Material Design for Bootstrap - это пакет пользовательского интерфейса Bootstrap 5 с открытым исходным кодом, который можно бесплатно загрузить.
