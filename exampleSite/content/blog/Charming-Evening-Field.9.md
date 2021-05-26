@@ -6,7 +6,9 @@ type: post
 image: images/masonary-post/post-10.jpg
 categories:
 - Программы
-tags: []
+tags:
+- Bootstrap
+- Material Design
 
 ---
 Material Design for Bootstrap - это пакет пользовательского интерфейса Bootstrap 5 с открытым исходным кодом, который можно бесплатно загрузить.
