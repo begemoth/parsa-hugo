@@ -1,12 +1,12 @@
 +++
-categories = []
+categories = ["Программы"]
 date = ""
 description = "Smallpdf - программа для работы с PDF"
 draft = true
 image = "/images/smallpdf.png"
 tags = []
 title = "Smallpdf"
-type = ""
+type = "post"
 
 +++
 Small pdf - это программа для работы с PDF. Все инструменты, необходимые для запуска, управления и заполнения цифровых документов.
