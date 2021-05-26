@@ -1,10 +1,10 @@
 ---
 title: 'Pxfuel '
-date: 2019-05-25T08:46:10+00:00
+date: 2019-05-25T08:46:10.000+00:00
 description: множество стоковых фотографий, которые можно использовать в коммерческих
   целях
 type: post
-image: "/images/boat-ship-clouds-sky.jpg"
+image: "/images/technology-camera-technology.jpg"
 categories:
 - Клипарт
 tags:
@@ -12,9 +12,9 @@ tags:
 - Photos
 
 ---
-Множество стоковых фотографий, которые можно использовать в коммерческих целях [https://www.pxfuel.com/](https://www.pxfuel.com/ "www.pxfuel.com")
+Множество стоковых фотографий, которые можно использовать в коммерческих целях
 
-![](/images/technology-camera-technology.jpg)
+ [https://www.pxfuel.com/](https://www.pxfuel.com/ "www.pxfuel.com")
 
 ![](/images/viking-drakar-boat-norway-scandinavia-fjord.jpg)
 
